@@ -1,3 +1,5 @@
+Blog: [https://ucsdml.github.io/](https://ucsdml.github.io/)
+
 #### Software
 
 [Pool-based active learning in Python](https://github.com/ntucllab/libact)
