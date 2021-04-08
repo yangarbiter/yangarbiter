@@ -7,7 +7,7 @@ Blog: [https://ucsdml.github.io/](https://ucsdml.github.io/)
 #### Publications
 
 - Connecting Interpretability and Robustness in Decision Trees through Separation [[paper]](https://arxiv.org/abs/2102.07048) [[code]](https://github.com/yangarbiter/interpretable-robust-trees)
-- Close Category Generalization [[paper]](https://arxiv.org/abs/2011.08485)
+- Close Category Generalization [[paper]](https://arxiv.org/abs/2011.08485) [[code]](https://github.com/yangarbiter/close-category-generalization)
 - A Closer Look at Accuracy vs. Robustness: [[paper]](https://arxiv.org/abs/2003.02460) [[code]](https://github.com/yangarbiter/robust-local-lipschitz)
 - Robustness for Non-Parametric Classification: A Generic Attack and Defense: [[paper]](https://arxiv.org/abs/1906.03310) [[code]](https://github.com/yangarbiter/adversarial-nonparametrics)
 - Deep Learning with a Rethinking Structure for Multi-label Classification: [[paper]](https://arxiv.org/abs/1802.01697) [[code]](https://github.com/yangarbiter/multilabel-learn)
