@@ -6,7 +6,7 @@ Blog: [https://ucsdml.github.io/](https://ucsdml.github.io/)
 
 #### Publications
 
-- TorchAudio: Building Blocks for Audio and Speech Processing [[paper]](https://arxiv.org/abs/2110.15018) [[code]](https://github.com/pytorch/audio)
+- TorchAudio: Building Blocks for Audio and Speech Processing [[paper]](https://arxiv.org/abs/2110.15018) [[code]](https://github.com/pytorch/audio) [[benchmark-implementation]](https://github.com/yangarbiter/torchaudio-benchmark)
 - Robustness and Generalization to Nearest Categories [[paper]](https://arxiv.org/abs/2011.08485) [[code]](https://github.com/yangarbiter/nearest-category-generalization)
 - Connecting Interpretability and Robustness in Decision Trees through Separation [[paper]](https://arxiv.org/abs/2102.07048) [[code]](https://github.com/yangarbiter/interpretable-robust-trees)
 - A Closer Look at Accuracy vs. Robustness: [[paper]](https://arxiv.org/abs/2003.02460) [[code]](https://github.com/yangarbiter/robust-local-lipschitz) [[blog post]](https://ucsdml.github.io/jekyll/update/2020/05/04/adversarial-robustness-through-local-lipschitzness.html)
