@@ -9,6 +9,7 @@ Blog: [https://ucsdml.github.io/](https://ucsdml.github.io/)
 #### Publications
 
 - Understanding Rare Spurious Correlations in Neural Networks: [[paper]](https://arxiv.org/abs/2202.05189) [[code]](https://github.com/yangarbiter/rare-spurious-correlation)
+- What You See is What You Get: Distributional Generalization for Algorithm Design in Deep Learning: [[code]](https://github.com/yangarbiter/dp-dg)
 - TorchAudio: Building Blocks for Audio and Speech Processing: [[paper]](https://arxiv.org/abs/2110.15018) [[code]](https://github.com/pytorch/audio) [[benchmark-implementation]](https://github.com/yangarbiter/torchaudio-benchmark)
 - Robustness and Generalization to Nearest Categories: [[paper]](https://arxiv.org/abs/2011.08485) [[code]](https://github.com/yangarbiter/nearest-category-generalization)
 - Connecting Interpretability and Robustness in Decision Trees through Separation: [[paper]](https://arxiv.org/abs/2102.07048) [[code]](https://github.com/yangarbiter/interpretable-robust-trees)
