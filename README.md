@@ -1,4 +1,4 @@
-I am expected to graduate in 2022, and I am open to the job market. Here are my [CV](http://yyyang.me/docs/curriculum_vitae.pdf) and [research statement](http://yyyang.me/docs/research_statement.pdf).
+Here are my [CV](http://yyyang.me/docs/curriculum_vitae.pdf) and [research statement](http://yyyang.me/docs/research_statement.pdf).
 
 Blog: [https://ucsdml.github.io/](https://ucsdml.github.io/)
 
